@@ -1,24 +1,24 @@
 # gellany_autoinput
 
 <code>./questions.sh</code><br>
-<code>Hello, please introduce yourself.
-Your name: ahmed
-Are you human?
-y/n: y
-What is your favorite programming language?
-Your answer: python
+<code>Hello, please introduce yourself.</code><<br>
+<code>Your name: ahmed</code><<br>
+<code>Are you human?
+<code>y/n: y</code><<br>
+<code>What is your favorite programming language?</code><<br>
+<code>Your answer: python</code><<br>
 
-Answers:
-1. ahmed
-2. y
-3. python</code><<br>
+<code>Answers:</code><<br>
+<code>1. ahmed</code><<br>
+<code>2. y</code><<br>
+<code>3. python</code><<br>
 
-<code>printf "bot\nn\nJava" | ./questions.sh
-<code>Hello, please introduce yourself.
-Your name: Are you human?
-y/n: What is your favorite programming language?
-Your answer: 
-Answers:
-1. bot
-2. n
-3. Java</code><br>
+<code>printf "bot\nn\nJava" | ./questions.sh</code><<br>
+<code>Hello, please introduce yourself.</code><<br>
+<code>Your name: Are you human?</code><<br>
+<code>y/n: What is your favorite programming language?</code><<br>
+<code>Your answer: </code><<br>
+<code>Answers:</code><<br>
+<code>1. bot</code><<br>
+<code>2. n</code><<br>
+<code>3. Java</code><br></code><<br>

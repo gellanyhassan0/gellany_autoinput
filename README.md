@@ -24,3 +24,17 @@
 <code>1. bot</code><br>
 <code>2. n</code><br>
 <code>3. Java</code><br></code><br>
+
+<code>./gellany_autoinput.sh
+spawn ./questions.sh
+Hello, please introduce yourself.
+Your name: expect
+Are you human?
+y/n: n
+What is your favorite programming language?
+Your answer: Java
+
+Answers:
+1. expect
+2. n
+3. Java</code><br>

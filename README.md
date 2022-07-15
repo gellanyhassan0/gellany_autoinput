@@ -1,5 +1,7 @@
 # gellany_autoinput
 
+<code>sudo apt install expect</code><br>
+
 <code>./questions.sh</code><br>
 <code>Hello, please introduce yourself.</code><br>
 <code>Your name: ahmed</code><br>

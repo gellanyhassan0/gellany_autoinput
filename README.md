@@ -25,16 +25,16 @@
 <code>2. n</code><br>
 <code>3. Java</code><br></code><br>
 
-<code>./gellany_autoinput.sh
-spawn ./questions.sh
-Hello, please introduce yourself.
-Your name: expect
-Are you human?
-y/n: n
-What is your favorite programming language?
-Your answer: Java
+<code>./gellany_autoinput.sh</code><br>
+<code>.spawn ./questions.sh</code><br>
+<code>.Hello, please introduce yourself.</code><br>
+<code>.Your name: expect</code><br>
+<code>.Are you human?</code><br>
+<code>.y/n: n</code><br>
+<code>.What is your favorite programming language?</code><br>
+<code>.Your answer: Java</code><br>
 
-Answers:
-1. expect
-2. n
-3. Java</code><br>
+<code>.Answers:</code><br>
+<code>.1. expect</code><br>
+<code>.2. n</code><br>
+<code>.3. Java</code><br>

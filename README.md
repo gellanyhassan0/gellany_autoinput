@@ -2,8 +2,8 @@
 
 <code>./questions.sh</code><br>
 <code>Hello, please introduce yourself.</code><br>
-<code>Your name: ahmed</code><<br>
-<code>Are you human?
+<code>Your name: ahmed</code><br>
+<code>Are you human?</code><br>
 <code>y/n: y</code><br>
 <code>What is your favorite programming language?</code><br>
 <code>Your answer: python</code><br>
